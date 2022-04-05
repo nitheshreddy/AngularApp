@@ -31,3 +31,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - `npm install`
 - `npm audit fix --force`
 - Update App - Angular v12 to v13 `npx @angular/cli@13 update @angular/core@13 @angular/cli@13`
+- Added Routing `ng generate module app-routing --flat --module=app`
