@@ -28,3 +28,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # Dev Steps and Commands
 - Create app `ng new AngularApp`
+- `npm install`
+- `npm audit fix --force`
